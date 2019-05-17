@@ -51,7 +51,7 @@ require (
 	github.com/ipfs/go-metrics-interface v0.0.1
 	github.com/ipfs/go-metrics-prometheus v0.0.2
 	github.com/ipfs/go-mfs v0.0.7
-	github.com/ipfs/go-path v0.0.3
+	github.com/ipfs/go-path v0.0.4-0.20190517055633-c13536f13f60
 	github.com/ipfs/go-unixfs v0.0.5
 	github.com/ipfs/go-verifcid v0.0.1
 	github.com/ipfs/hang-fds v0.0.1
@@ -97,7 +97,7 @@ require (
 	github.com/miekg/dns v1.1.8 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mr-tron/base58 v1.1.2
-	github.com/multiformats/go-multiaddr v0.0.2
+	github.com/multiformats/go-multiaddr v0.0.3-0.20190517022845-4bae94e0efbb
 	github.com/multiformats/go-multiaddr-dns v0.0.2
 	github.com/multiformats/go-multiaddr-net v0.0.1
 	github.com/multiformats/go-multibase v0.0.1
